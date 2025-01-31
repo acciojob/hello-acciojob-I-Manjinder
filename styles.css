@@ -1,11 +1,11 @@
-main{
+main {
 	width:150px;
 	height:150px;
 	background-color:black;
 }
 
-.hello-accio{
-	text color:white;
+p{
+	color:white;
 	left margin:32px;
 	padding:10px;
 }
